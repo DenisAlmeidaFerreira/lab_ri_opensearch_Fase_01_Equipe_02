@@ -1,6 +1,6 @@
 # Equipe XX — Fase 1
 
-Integrantes: [Denis Almeida Ferreira - 123210975], [Arlis Brito De Oliveira Filho]
+Integrantes: [Denis Almeida Ferreira - 123210975], [Arlis Brito De Oliveira Filho - 122210510]
 
 ID: equipe_02
 
